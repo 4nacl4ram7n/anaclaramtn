@@ -3,19 +3,17 @@
   <img src="assets/bg (2).gif" alt="banner-girl-coffee">
 </div>
 
-# Tech Stack  <img src="assets/totoro2.gif" width="40" height="40">
-<table>
-  <tr>
-    <td valign="center" width="65%">
-      <ul>
-        Currently, I'm focusing on front-end development, getting better at JavaScript, HTML and CSS;
-      </ul>
-    </td>
-    <td valign="center" width="50%" align="center">
-      <img src="assets/bg4.gif" alt="secondBox">
-    </td>
-  </tr>
-</table>
+# Tech Stack <img src="assets/totoro2.gif" width="40" height="40">
+<p align="center">
+  Currently, I'm focusing on front-end development, getting better at JavaScript, HTML and CSS;<br>
+  Alongside my formal education, driven by my insatiable curiosity, I'm dedicated to developing my Python skills as well through self-learning;
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JavaScript Badge" style="margin: 0 7px;">
+  <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=orange" alt="HTML Badge" style="margin: 0 7px;">
+  <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=blue" alt="CSS Badge" style="margin: 0 5px;">
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=green" alt="Python Badge" style="margin: 0 7px;">
+</p>
 
 # Discover a bit more about me...  <img src="assets/coffee.gif" width="40" height="40">
 <table>
@@ -56,3 +54,4 @@
   <code><img alt="discord" width="35" src="assets/discord.png" /></code>
   </a>
 </p>
+
