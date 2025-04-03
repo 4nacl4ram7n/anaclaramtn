@@ -4,25 +4,34 @@
 </div>
 
 # Tech Stack  <img src="assets/totoro2.gif" width="40" height="40">
-<p>
-  Currently, I'm focusing on front-end development, getting better at JavaScript, HTML and CSS;
-</p>
+<table>
+  <tr>
+    <td valign="center" width="65%">
+      <ul>
+        Currently, I'm focusing on front-end development, getting better at JavaScript, HTML and CSS;
+      </ul>
+    </td>
+    <td valign="center" width="50%" align="center">
+      <img src="assets/bg4.gif" alt="secondBox">
+    </td>
+  </tr>
+</table>
 
 # Discover a bit more about me...  <img src="assets/coffee.gif" width="40" height="40">
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="center" width="65%">
       <ul>
-        <br>
         <li>I'm from Brazil, currently studying at the University of Fortaleza - Unifor;</li>
-        <li>When I'm not hitting the books, you can usually find me enjoying music and games like Hollow Knight and Dead Cells;</li>
+        <li>When I'm not hitting the books, you can usually find me enjoying games like Hollow Knight and Dead Cells;</li>
         <li>I'm also a big fan of animation - Ghibli's Movies, Big Hero 5, AoT, Monster, HxH, Death Note and One Piece are my favorites of all time;</li>
         <li>I absolutely love all the process envolving on learning, and sharing knowlege;</li>
         <li>My favorite flavor profile is coffee. I enjoy all its variations, including cappuccinos, lattes, espressos, and black coffee. Additionally, I have a particular fondness for coffee-based desserts;</li>
+        <li>Outside of gaming, I'm always jamming to rock music, even when I'm coding;</li>
       </ul>
     </td>
     <td valign="center" width="50%" align="center">
-      <img src="assets/game.gif" alt="gif games" style="max-width: 80;">
+      <img src="assets/game.gif" alt="gif games">
     </td>
   </tr>
 </table>
