@@ -6,7 +6,6 @@
 # Tech Stack  <img src="assets/totoro2.gif" width="40" height="40">
 
 
-
 # Discover a bit more about me...  <img src="assets/coffee.gif" width="40" height="40">
 <table>
   <tr>
@@ -27,7 +26,7 @@
 </table>
 
 <p align="center">
-  <img src="assets/killua.gif" alt="killua" width="100" />
+  <img src="assets/luffy.gif" alt="killua" width="100" />
 </p>
 
 <p align="center" > 
