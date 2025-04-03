@@ -1,9 +1,9 @@
-# Hello, there! <a href="https://hollowknight.fandom.com/wiki/Knight"><img src="assets/knight.gif" width="55" height="55"></a> 
+# Hello, there! <a href="https://hollowknight.fandom.com/wiki/Knight"><img src="assets/knight3.gif" width="55" height="55"></a> 
 <div align="center">
   <img src="assets/bg (2).gif" alt="banner-girl-coffee">
 </div>
 
-# Tech Stack  <img src="assets/noface2.gif" width="40" height="40">
+# Tech Stack  <img src="assets/totoro2.gif" width="40" height="40">
 
 
 
