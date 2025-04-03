@@ -1,9 +1,9 @@
-# Hello, there! <a href="https://gamebanana.com/sprays/79875"><img src="assets/hk.gif" width="50" height="50"></a> 
+# Hello, there! <a href="https://hollowknight.fandom.com/wiki/Knight"><img src="assets/knight.gif" width="55" height="55"></a> 
 <div align="center">
   <img src="assets/bg (2).gif" alt="banner-girl-coffee">
 </div>
 
-# Tech Stack  <img src="assets/totoro2.gif" width="40" height="40">
+# Tech Stack  <img src="assets/noface2.gif" width="40" height="40">
 
 
 
@@ -15,7 +15,7 @@
         <br>
         <li>I'm from Brazil, currently studying at the University of Fortaleza;</li>
         <li>When I'm not hitting the books, you can usually find me enjoying the worlds of games like Hollow Knight and Dead Cells;</li>
-        <li>I'm also a big fan of animation - Ghibli's Movies, Big Hero 5, Spider-Man (Spider-Verse Franchise), Attack on Titan, Monster, and One Piece are some of my absolute favorites of all time;</li>
+        <li>I'm also a big fan of animation - Ghibli's Movies, Big Hero 5, Spider-Man (Spider-Verse Franchise), Attack on Titan, Monster, HxH, Death Note and One Piece are my favorites of all time;</li>
         <li>I absolutely love all the process envolving on learning, and sharing knowlege;</li>
         <li>My favorite flavor profile is coffee. I enjoy all its variations, including cappuccinos, lattes, espressos, and black coffee. Additionally, I have a particular fondness for coffee-based desserts;</li>
       </ul>
@@ -26,6 +26,9 @@
   </tr>
 </table>
 
+<p align="center">
+  <img src="assets/killua.gif" alt="killua" width="100" />
+</p>
 
 <p align="center" > 
   <i>Thanks for passing by!</i><br><br>
