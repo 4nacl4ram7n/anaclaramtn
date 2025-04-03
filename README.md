@@ -1,4 +1,4 @@
-# Hello, there! <a href="https://hollowknight.fandom.com/wiki/Knight"><img src="assets/knight3.gif" width="55" height="55"></a> 
+# Hello, there! <a href="https://hollowknight.fandom.com/wiki/Knight"><img src="assets/knight3.gif" width="50" height="50"></a> 
 <div align="center">
   <img src="assets/bg (2).gif" alt="banner-girl-coffee">
 </div>
