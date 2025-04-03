@@ -1,18 +1,25 @@
-# Hello, there!! <a href="https://hollowknight.fandom.com/wiki/Knight"><img src="assets/knight3.gif" width="55" height="55"></a> 
+# Hello, there! <a href="https://hollowknight.fandom.com/wiki/Knight"><img src="assets/knight3.gif" width="55" height="55"></a> 
 <div align="center">
   <img src="assets/bg (2).gif" alt="banner-girl-coffee">
 </div>
 
-# Tech Stack <img src="assets/totoro2.gif" width="40" height="40">
+# Tech Stack and Tools that I use <img src="assets/totoro2.gif" width="40" height="40">
+
 <p align="center">
   Currently, I'm focusing on front-end development, getting better at JavaScript, HTML and CSS;<br>
-  Alongside my formal education, driven by my insatiable curiosity, I'm dedicated to developing my Python skills as well through self-learning;
+  Alongside my formal education, driven by my insatiable curiosity, I'm dedicated to developing my Python and TypeScript skills as well through self-learning. C++ is the language I used to do two projects at university: a car with its own controls and a machine that automatically assembles the Rubik's Cube;
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JavaScript Badge" style="margin: 0 7px;">
   <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=orange" alt="HTML Badge" style="margin: 0 7px;">
-  <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=blue" alt="CSS Badge" style="margin: 0 5px;">
+  <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=blue" alt="CSS Badge" style="margin: 0 7px;">
   <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=green" alt="Python Badge" style="margin: 0 7px;">
+  <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus&logoColor=purple" alt="C++ Badge" style="margin: 0 7px;">
+  <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=lightblue" alt="TypeScript Badge" style="margin: 0 7px;">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" style="margin: 0 7px;">
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" style="margin: 0 7px;">
+  <img src="https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=blue" alt="VS Code Badge" style="margin: 0 7px;">
 </p>
 
 # Discover a bit more about me...  <img src="assets/coffee.gif" width="40" height="40">
