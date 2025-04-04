@@ -59,11 +59,14 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="assets/killua.gif" alt="killua" width="100" />
-</p>
+<!--
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=100&langs_count=8&theme=transparent&hide_border=false&username=anaclaramtn" height="150" alt="most used languages"/>
+</div>
+-->
 
 <p align="center" > 
+  <img src="assets/killua.gif" alt="killua" width="100" /><br>
   <i>Thanks for passing by!</i><br><br>
   <i>You can reach me on</i><br><br>
   <a href="www.linkedin.com/in/anaclaramtn">
