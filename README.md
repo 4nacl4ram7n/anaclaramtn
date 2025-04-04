@@ -67,10 +67,13 @@
   <i>Thanks for passing by!</i><br><br>
   <i>You can reach me on</i><br><br>
   <a href="www.linkedin.com/in/anaclaramtn">
-  <code><img alt="linkedin" width="30" src="assets/linkedin.png" /></code>
+  <code><img alt="linkedin" width="32" src="assets/linkedin.png" /></code>
   </a>
-    <a href="mailto:anaclaramtn@gmail.com">
+  <a href="mailto:anaclaramtn@gmail.com">
   <code><img alt="email" width="30" src="assets/gmail.png" /></code>
+  </a>
+  <a href="mailto:anaclaramtn@edu.unifor.br">
+  <code><img alt="emailunifor" width="35" src="assets/unifor.png" /></code>
   </a>
   <a href="https://instagram.com/mtnanaclara_">
   <code><img alt="instagram" width="30" src="assets/instagram.png" /></code>
