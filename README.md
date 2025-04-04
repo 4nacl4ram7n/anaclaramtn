@@ -1,6 +1,6 @@
 # Hello, there! <a href="https://hollowknight.fandom.com/wiki/Knight"><img src="assets/knight3.gif" width="50" height="50"></a> 
 <div align="center">
-  <img src="main_background.gif" alt="main_banner">
+  <img src="assets/mainbackground.gif" alt="main_banner">
 </div>
 
 # Tech Stack and Tools that I use <img src="assets/totoro2.gif" width="40" height="40">
@@ -22,6 +22,24 @@
   <img src="https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=blue" alt="VS Code Badge" style="margin: 0 7px;">
 </p>
 
+<!--
+# Personal Projects <img src="assets/coffee.gif" width="40" height="40">
+<table>
+  <tr>
+    <td width="35%" valign="top">
+      <img src="assets/block1.gif" alt="gif games">
+    </td>
+    <td width="65%" valign="top">
+      <ul>
+        <li>;</li>
+        <li>;</li>
+        <li>;</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+-->
+
 # Discover a bit more about me...  <img src="assets/coffee.gif" width="40" height="40">
 <table>
   <tr>
@@ -36,7 +54,7 @@
       </ul>
     </td>
     <td valign="center" width="50%" align="center">
-      <img src="assets/game.gif" alt="gif games">
+      <img src="assets/block2.gif" alt="gif games">
     </td>
   </tr>
 </table>
