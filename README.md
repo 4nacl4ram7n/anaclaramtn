@@ -7,7 +7,7 @@
 
 <p align="center">
   Currently, I'm focusing on front-end development, getting better at JavaScript, HTML and CSS;<br>
-  Alongside my formal education, driven by my insatiable curiosity, I'm dedicated to developing my Python and TypeScript skills as well through self-learning. C++ is the language I used to make two projects at university;
+  Alongside my formal education, I'm dedicated to developing my Python and TypeScript skills as well through self-learning. C++ is the language I used to make two projects at university;
 </p>
 
 <p align="center">
