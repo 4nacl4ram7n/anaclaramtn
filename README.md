@@ -47,7 +47,7 @@
       <ul>
         <li>I'm from Brazil, currently studying at the University of Fortaleza - Unifor;</li>
         <li>When I'm not hitting the books, you can usually find me enjoying games like Hollow Knight and Dead Cells;</li>
-        <li>I'm also a big fan of animation - Ghibli's Movies, Big Hero 5, AoT, Monster, HxH, Death Note and One Piece are my favorites of all time;</li>
+        <li>I'm also a big fan of animation - Ghibli's Movies, HTTYD, Big Hero 5, AoT, Monster, HxH, Death Note and One Piece are my favorites of all time;</li>
         <li>I absolutely love all the process envolving on learning, and sharing knowlege;</li>
         <li>My favorite flavor profile is coffee. I enjoy all its variations, including cappuccinos, lattes, espressos, and black coffee. Additionally, I have a particular fondness for coffee-based desserts;</li>
         <li>Outside of gaming, I'm always jamming to rock music, even when I'm coding;</li>
