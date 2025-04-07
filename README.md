@@ -32,7 +32,7 @@
 # GitHub Stats <img src="assets/eevee.gif" width="45" height="45">
 
 <div align="start">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=317.5&langs_count=8&theme=tokyonight&hide_border=true&username=anaclaramtn" height="195" alt="languages"  />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=310&langs_count=8&theme=tokyonight&hide_border=true&username=anaclaramtn" height="195" alt="languages"  />
 
  <img src="https://github-readme-stats.vercel.app/api?username=anaclaramtn&show_icons=true&theme=tokyonight&hide_border=true" />
 
