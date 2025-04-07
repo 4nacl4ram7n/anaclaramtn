@@ -31,13 +31,12 @@
 
 # GitHub Stats <img src="assets/eevee.gif" width="45" height="45">
 
-<div align="start">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=310&langs_count=8&theme=tokyonight&hide_border=true&username=anaclaramtn" height="195" alt="languages"  />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=310&langs_count=8&theme=tokyonight&hide_border=true&username=anaclaramtn" height="195" alt="languages" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=anaclaramtn&show_icons=true&theme=tokyonight&hide_border=true" height="195" />
+</p>
 
- <img src="https://github-readme-stats.vercel.app/api?username=anaclaramtn&show_icons=true&theme=tokyonight&hide_border=true" />
-
-
-</div>
 
 <!--
 # Personal Projects <img src="assets/coffee.gif" width="40" height="40">
