@@ -1,10 +1,16 @@
 # Hello, there! <a href="https://hollowknight.fandom.com/wiki/Knight"><img src="assets/knight3.gif" width="50" height="50"></a> 
+
+<!--
+<a align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=1000&color=6AA2B9&width=435&lines=Hello%2C+there!;I'm+Ana+Clara!" alt="Typing SVG" /></a>
+-->
+
 <div align="center">
   <img src="assets/mainbackground.gif" alt="main_banner">
 </div>
 
-# Tech Stack and Tools that I use <img src="assets/totoro2.gif" width="40" height="40">
 
+# Tech Stack and Tools that I use <img src="assets/totoro2.gif" width="40" height="40">
 <p align="center">
   Currently, I'm focusing on front-end development, getting better at JavaScript, HTML and CSS;<br>
   Alongside my formal education, I'm dedicated to developing my Python and TypeScript skills as well through self-learning. C++ is the language I used to make two projects at university;
