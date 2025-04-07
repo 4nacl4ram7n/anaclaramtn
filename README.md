@@ -30,11 +30,9 @@
 </p>
 
 # GitHub Stats <img src="assets/eevee.gif" width="45" height="45">
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=310&langs_count=8&theme=tokyonight&hide_border=true&username=anaclaramtn" height="195" alt="languages" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=anaclaramtn&show_icons=true&theme=tokyonight&hide_border=true" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anaclaramtn&show_icons=true&locale=en&layout=compact&card_width=300&langs_count=8&theme=tokyonight&hide_border=true" height="150" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anaclaramtn&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub stats" />
 </p>
 
 
