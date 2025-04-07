@@ -3,7 +3,7 @@
 
 
 <a>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=1000&color=6AA2B9&width=435&lines=Hello%2C+there!;I'm+Ana+Clara+👋" alt="typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=6AA2B9&width=435&lines=Hello%2C+there!;I'm+Ana+Clara+👋" alt="typing"/>
 </a>
 
 <div align="center">
@@ -31,8 +31,8 @@
 
 # GitHub Stats <img src="assets/eevee.gif" width="45" height="45">
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a&show_icons=true&locale=en&layout=compact&card_width=300&langs_count=8&theme=github_dark&hide_border=true" height="150" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=a&show_icons=true&theme=github_dark&hide_border=true" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lnmangione&show_icons=true&locale=en&layout=compact&card_width=350&langs_count=8&theme=github_dark&hide_border=true" height="180" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lnmangione&show_icons=true&theme=github_dark&hide_border=true" height="180" alt="GitHub stats" />
 </p>
 
 
