@@ -31,7 +31,7 @@
 
 # GitHub Stats <img src="assets/eevee.gif" width="45" height="45">
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a_icons=true&locale=en&layout=compact&card_width=300&langs_count=8&theme=github_dark&hide_border=true" height="150" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a&show_icons=true&locale=en&layout=compact&card_width=300&langs_count=8&theme=github_dark&hide_border=true" height="150" alt="Top Langs" />
   <img src="https://github-readme-stats.vercel.app/api?username=a&show_icons=true&theme=github_dark&hide_border=true" height="150" alt="GitHub stats" />
 </p>
 
