@@ -1,14 +1,11 @@
 <!-- # Hello, there! <a href="https://hollowknight.fandom.com/wiki/Knight"><img src="assets/knight3.gif" width="50" height="50"></a> 
 --->
 
-
-<a>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=6AA2B9&width=435&lines=Hello%2C+there!;I'm+Ana+Clara+👋" alt="typing"/>
-</a>
-
+# Hello, there!
 <div align="center">
-  <img src="assets/mainbackground.gif" alt="main_banner">
+  <img src="assets/mainbackground2.gif" alt="main_banner">
 </div>
+
 
 
 # Tech Stack and Tools that I use <img src="assets/totoro2.gif" width="45" height="45">
