@@ -1,7 +1,7 @@
-<!-- # Hello, there! <a href="https://hollowknight.fandom.com/wiki/Knight"><img src="assets/knight3.gif" width="50" height="50"></a> 
---->
+# Hello, there! <a href="https://hollowknight.fandom.com/wiki/Knight"><img src="assets/knight3.gif" width="50" height="50"></a> 
 
-# Hello, there!
+<!-- # Hello, there!
+-->
 <div align="center">
   <img src="assets/mainbackground2.gif" alt="main_banner">
 </div>
