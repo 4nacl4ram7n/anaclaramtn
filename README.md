@@ -1,7 +1,7 @@
 # Tech Stack and Tools that I use <img src="assets/totoro2.gif" width="45" height="45">
 <p align="center">
-  Currently, I'm focusing on front-end development, getting better at JavaScript, HTML and CSS;<br>
-  Alongside my formal education, I'm dedicated to developing my Python and TypeScript skills as well through self-learning. C++ is the language I used to make two projects at university;
+  Currently, I'm focusing on front-end development;<br>
+  Alongside my formal education, I'm dedicated to developing my Python and Programming Logic skills as well through self-learning. C++ is the language I used to make two projects at university;
 </p>
 
 <p align="center">
