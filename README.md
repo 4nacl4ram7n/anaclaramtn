@@ -1,13 +1,3 @@
-# Hello, there! <a href="https://hollowknight.fandom.com/wiki/Knight"><img src="assets/knight3.gif" width="50" height="50"></a> 
-
-<!-- # Hello, there!
--->
-<div align="center">
-  <img src="assets/mainbackground2.gif" alt="main_banner">
-</div>
-
-
-
 # Tech Stack and Tools that I use <img src="assets/totoro2.gif" width="45" height="45">
 <p align="center">
   Currently, I'm focusing on front-end development, getting better at JavaScript, HTML and CSS;<br>
@@ -33,49 +23,6 @@
 </p>
 
 
-<!--
-# Personal Projects <img src="assets/coffee.gif" width="40" height="40">
-<table>
-  <tr>
-    <td width="35%" valign="top">
-      <img src="assets/block1.gif" alt="gif games">
-    </td>
-    <td width="65%" valign="top">
-      <ul>
-        <li>;</li>
-        <li>;</li>
-        <li>;</li>
-      </ul>
-    </td>
-  </tr>
-</table>
--->
-
-# Discover a bit more about me...  <img src="assets/coffee.gif" width="45" height="45">
-<table>
-  <tr>
-    <td valign="center" width="65%">
-      <ul>
-        <li>I'm from Brazil, currently studying at the University of Fortaleza - Unifor;</li>
-        <li>When I'm not hitting the books, you can usually find me enjoying games like Hollow Knight and Dead Cells;</li>
-        <li>I'm also a big fan of animation - Ghibli, Big Hero 5, AoT, HTTYD, Monster, HxH, Death Note and One Piece are my favorites of all time;</li>
-        <li>I absolutely love all the process envolving on learning, and sharing knowlege;</li>
-        <li>My favorite flavor profile is coffee. I enjoy all its variations, including cappuccinos, lattes, espressos, and black coffee. Additionally, I have a particular fondness for coffee-based desserts;</li>
-        <li>Outside of gaming, I'm always jamming to rock music, even when I'm coding;</li>
-      </ul>
-    </td>
-    <td valign="center" width="50%" align="center">
-      <img src="assets/block2.gif" alt="gif games">
-    </td>
-  </tr>
-</table>
-
-<!--
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=100&langs_count=8&theme=transparent&hide_border=false&username=anaclaramtn" height="150" alt="most used languages"/>
-</div>
--->
-
 <p align="center" > 
   <img src="assets/killua.gif" alt="killua" width="120" /><br>
   <i>Thanks for passing by!</i><br><br>
@@ -94,8 +41,3 @@
   </a>
 </p>
 
-<!--
-  <a href="https://discord.com/users/323609489783914497">
-  <code><img alt="discord" width="30" src="assets/discord.png" /></code>
-  </a>
--->
