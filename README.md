@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=blue" alt="CSS Badge" style="margin: 0 7px;">
   <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=green" alt="Python Badge" style="margin: 0 7px;">
   <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus&logoColor=pink" alt="C++ Badge" style="margin: 0 7px;">
-  <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=lightblue" alt="TypeScript Badge" style="margin: 0 7px;">
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" style="margin: 0 7px;">
   <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" style="margin: 0 7px;">
   <img src="https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=blue" alt="VS Code Badge" style="margin: 0 7px;">
