@@ -1,5 +1,5 @@
 <p align="center">
-Hello! I'm currently at the beginning of my journey in the programming world, loving every single thing from the Front to the Backend of programming. I'm passionate about technology and committed to continuously learning and growing in this field.
+Hello! I'm currently at the beginning of my journey, but loving every single thing from the Front to the Backend of programming. I'm passionate about technology and committed to continuously learning and growing in this field.
 Outside of tech, I have a deep appreciation for animations — especially One Piece — music, art, and a good coffee.
 Thank you for visiting my profile!
 </p>
