@@ -1,5 +1,5 @@
-# Tech Stack and Tools that I use <img src="assets/totoro2.gif" width="45" height="45">
-<p align="center">
+## Tech Stack and Tools that I use
+<p align="left">
   Currently, I'm focusing on front-end development;<br>
   Alongside my formal education, I'm dedicated to developing my Python and Programming Logic skills as well through self-learning;
 </p>
@@ -15,15 +15,15 @@
   <img src="https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=blue" alt="VS Code Badge" style="margin: 0 7px;">
 </p>
 
-# GitHub Stats <img src="assets/eevee.gif" width="45" height="45">
+## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anaclaramtn&show_icons=true&locale=en&layout=compact&card_width=350&langs_count=8&theme=github_dark&hide_border=true" height="165" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=anaclaramtn&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anaclaramtn&show_icons=true&locale=en&layout=compact&card_width=350&langs_count=8&theme=gotham&hide_border=true" height="160" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anaclaramtn&show_icons=true&theme=gotham&hide_border=true" height="160" alt="GitHub stats" />
 </p>
 
 
 <p align="center" > 
-  <img src="assets/killua.gif" alt="killua" width="120" /><br>
+  <img src="assets/luffy7.gif" alt="killua" width="130" /><br>
   <i>Thanks for passing by!</i><br><br>
   <i>You can reach me on</i><br><br>
   <a href="www.linkedin.com/in/anaclaramtn">
