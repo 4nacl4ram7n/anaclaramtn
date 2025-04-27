@@ -1,3 +1,10 @@
+<p align="center">
+Hello! I'm currently at the beginning of my journey in the programming world, with a strong focus on full stack development and data science. I'm passionate about technology and committed to continuously learning and growing in this field.
+Outside of tech, I have a deep appreciation for animations — especially One Piece — music, art, and a good coffee.
+Thank you for visiting my profile!
+</p>
+
+
 ## Tech Stack and Tools that I use
 <p align="left">
   Currently, I'm focusing on front-end development;<br>
@@ -5,15 +12,32 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JavaScript Badge" style="margin: 0 7px;">
-  <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=orange" alt="HTML Badge" style="margin: 0 7px;">
-  <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=blue" alt="CSS Badge" style="margin: 0 7px;">
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=green" alt="Python Badge" style="margin: 0 7px;">
-  <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus&logoColor=pink" alt="C++ Badge" style="margin: 0 7px;">
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" style="margin: 0 7px;">
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" style="margin: 0 7px;">
-  <img src="https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=blue" alt="VS Code Badge" style="margin: 0 7px;">
+  <a href="https://github.com/anaclaramtn/Front-End-Development" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JavaScript Badge">
+  </a>
+  <a href="https://github.com/anaclaramtn/Front-End-Development" target="_blank">
+    <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=orange" alt="HTML Badge">
+  </a>
+  <a href="https://github.com/anaclaramtn/Front-End-Development" target="_blank">
+    <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=blue" alt="CSS Badge">
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=green" alt="Python Badge">
+  </a>
+  <a href="https://github.com/anaclaramtn/Projetos-Experimentacao-Orientada-n35cd" target="_blank">
+    <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus&logoColor=pink" alt="C++ Badge">
+  </a>
+  <a href="https://github.com/anaclaramtn" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=blue" alt="VS Code Badge">
+  </a>
 </p>
+
 
 ## GitHub Stats
 <p align="center">
