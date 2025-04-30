@@ -1,6 +1,6 @@
 <p align="center">
 Hello! I'm currently at the beginning of my journey, but loving every single thing from the Front to the Backend of programming. I'm passionate about technology and committed to continuously learning and growing in this field.
-Outside of tech, I have a deep appreciation for animations — especially One Piece — music, art, and a good coffee.
+Outside of tech, I have a deep appreciation for animations — especially One Piece and AoT — music, art, and a good coffee.
 Welcome to my profile!!
 </p>
 
