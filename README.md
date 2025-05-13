@@ -1,14 +1,9 @@
-<p align="center">
-Hello! I'm currently at the beginning of my journey, but loving every single thing from the Front to the Backend of programming. I'm passionate about technology and committed to continuously learning and growing in this field.
-Outside of tech, I have a deep appreciation for animations — especially One Piece and AoT — music, art, and a good coffee.
-Welcome to my profile!!
-</p>
-
+## Hi! Welcome to my profile. <img src="assets/totoro2.gif" alt="totoro" width="50" />
+I'm a beginning programmer who is passionate about Coffee, Rubik's Cube, One Piece, AoT and, of course, math! 
 
 ## Tech Stack and Tools that I use
 <p align="left">
-  Currently, I'm focusing on front-end development;<br>
-  Alongside my formal education, I'm dedicated to developing my Python and Programming Logic skills as well through self-learning;
+  Currently, I'm focusing on understand programming logic and flow byt using easy languages, as python and JS. Alongside my formal education, I'm dedicated to developing my web dev skills as well through self-learning;
 </p>
 
 <p align="center">
@@ -47,7 +42,7 @@ Welcome to my profile!!
 
 
 <p align="center" > 
-  <img src="assets/luffy7.gif" alt="killua" width="130" /><br>
+  <img src="assets/luffy_new.gif" alt="luffy_gear5" width="130" /><br>
   <i>Thanks for passing by!</i><br><br>
   <i>You can reach me on</i><br><br>
   <a href="www.linkedin.com/in/anaclaramtn">
