@@ -1,5 +1,5 @@
 ## Hi! Welcome to my profile. <img src="assets/totoro2.gif" alt="totoro" width="50" />
-I'm a beginning programmer who is passionate about Coffee, Rubik's Cube, One Piece, AoT and, of course, math! 
+I'm a beginning programmer who is passionate about Coffee, Rubik's Cube, One Piece, AoT and, of course, maths and logic, so you're gonna find a lot of logic problems in my repos! 
 
 ## Tech Stack and Tools that I use
 <p align="left">
