@@ -36,7 +36,7 @@ I'm a beginning programmer who is passionate about Coffee, Rubik's Cube, One Pie
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anaclaramtn&show_icons=true&locale=en&layout=compact&card_width=350&langs_count=8&theme=gotham&hide_border=true" height="160" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaclaramtn&theme=gotham&show_icons=true&hide_border=true&layout=compact" height="160" alt="Top Langs" />
   <img src="https://github-readme-stats.vercel.app/api?username=anaclaramtn&show_icons=true&theme=gotham&hide_border=true" height="160" alt="GitHub stats" />
 </p>
 
