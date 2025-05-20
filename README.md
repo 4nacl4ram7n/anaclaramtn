@@ -3,7 +3,7 @@ I'm a beginning programmer who is passionate about Coffee, Rubik's Cube, One Pie
 
 ## Tech Stack and Tools that I use
 <p align="left">
-  Currently, I'm focusing on understand programming logic and flow byt using easy languages, as python and JS. Alongside my formal education, I'm dedicated to developing my web dev skills as well through self-learning;
+  Currently, I'm focusing on understand programming logic and flow by using easy languages, as python and JS. Alongside my formal education, I'm dedicated to developing my web dev skills as well through self-learning;
 </p>
 
 <p align="center">
