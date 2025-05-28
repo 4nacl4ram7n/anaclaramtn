@@ -1,7 +1,9 @@
 ## Hi! Welcome to my profile. <img src="assets/totoro2.gif" alt="totoro" width="50" />
-I'm a beginning programmer who is passionate about Coffee, Rubik's Cube, One Piece, AoT and, of course, maths and logic, so you're gonna find a lot of logic problems in my repos! 
+I'm Ana Clara!
+I'm studying Computer Science at the University of Fortaleza and I'm trying to improve my programming and logic skills on my own.
+Besides being passionate about logic and mathematics, I also like many other things, such as rock, one piece, aot, coffee and marine life.
 
-## Tech Stack and Tools that I use
+## Things I'm learning right now
 <p align="left">
   Currently, I'm focusing on understand programming logic and flow by using easy languages, as python and JS. Alongside my formal education, I'm dedicated to developing my web dev skills as well through self-learning;
 </p>
