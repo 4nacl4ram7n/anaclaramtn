@@ -10,29 +10,32 @@ Besides being passionate about logic and mathematics, I also like many other thi
 
 <p align="center">
   <a href="https://github.com/anaclaramtn/Front-End-Development" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JavaScript Badge">
-  </a>
-  <a href="https://github.com/anaclaramtn/Front-End-Development" target="_blank">
-    <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=orange" alt="HTML Badge">
-  </a>
-  <a href="https://github.com/anaclaramtn/Front-End-Development" target="_blank">
-    <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=blue" alt="CSS Badge">
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=green" alt="Python Badge">
-  </a>
-  <a href="https://github.com/anaclaramtn/Projetos-Experimentacao-Orientada-n35cd" target="_blank">
-    <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus&logoColor=pink" alt="C++ Badge">
-  </a>
-  <a href="https://github.com/anaclaramtn" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=blue" alt="VS Code Badge">
-  </a>
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JavaScript Badge">
+</a>
+<a href="https://github.com/anaclaramtn/Front-End-Development" target="_blank">
+  <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=orange" alt="HTML Badge">
+</a>
+<a href="https://github.com/anaclaramtn/Front-End-Development" target="_blank">
+  <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=blue" alt="CSS Badge">
+</a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=green" alt="Python Badge">
+</a>
+<a href="https://www.java.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=orange" alt="Java Badge">
+</a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+  <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white" alt="C Language Badge">
+</a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp&logoColor=purple" alt="C# Badge">
+</a>
+<a href="https://github.com/anaclaramtn" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+</a>
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=blue" alt="VS Code Badge">
+</a>
 </p>
 
 
