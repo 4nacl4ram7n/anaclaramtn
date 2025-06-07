@@ -41,8 +41,8 @@ Besides being passionate about logic and mathematics, I also like many other thi
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaclaramtn&theme=gotham&show_icons=true&hide_border=true&layout=compact" height="160" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=anaclaramtn&show_icons=true&theme=gotham&hide_border=true" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4nacl4ram7n&theme=gotham&show_icons=true&hide_border=true&layout=compact" height="160" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=4nacl4ram7n&show_icons=true&theme=gotham&hide_border=true" height="160" alt="GitHub stats" />
 </p>
 
 
