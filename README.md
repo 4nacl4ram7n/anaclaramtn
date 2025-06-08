@@ -1,7 +1,6 @@
 ## Hi! Welcome to my profile. <img src="assets/totoro2.gif" alt="totoro" width="50" />
 I'm Ana Clara!
 I'm studying Computer Science at the University of Fortaleza and I'm trying to improve my programming and logic skills on my own.
-Besides being passionate about logic and mathematics, I also like many other things, such as rock, one piece, aot, coffee and marine life.
 
 ## Things I'm learning right now
 <p align="left">
